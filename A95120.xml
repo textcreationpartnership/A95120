@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>True news from Oxford. Being a relation of the magnificent valour of the scholars in number 500. compleatly armed; the more encouraged in respect of the presence of the Lord Lov[e]lace and Lord Wilmot, who for manifold achievements stiled them with the title of heroicke cavaleers. Sent in a letter by a scholar in the university to a brother of his in London.</title>
+            <author>Scholar in the university.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95120</idno>
+            <idno type="STC">Wing T2845</idno>
+            <idno type="STC">Thomason E114_31</idno>
+            <idno type="STC">ESTC R1978</idno>
+            <idno type="EEBO-CITATION">99860739</idno>
+            <idno type="PROQUEST">99860739</idno>
+            <idno type="VID">112864</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95120)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112864)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E114[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>True news from Oxford. Being a relation of the magnificent valour of the scholars in number 500. compleatly armed; the more encouraged in respect of the presence of the Lord Lov[e]lace and Lord Wilmot, who for manifold achievements stiled them with the title of heroicke cavaleers. Sent in a letter by a scholar in the university to a brother of his in London.</title>
+                  <author>Scholar in the university.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Best,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 29. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>This is probably a forgery from the absence of detail and poorness of style.--Cf. Madan.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lovelace, John Lovelace, --  Baron, 1616-1670.</term>
+               <term>Rochester, Henry Wilmot, --  Earl of, 1612?-1658.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112864:1" rendition="simple:additions"/>
+            <p>TRVE NEWS FROM OXFORD.</p>
+            <p>Being a Relation of the Magnificent valour of the Scholars in number 500 compleatly armed; the more encouraged in reſpect of the preſence of the Lord <hi>Lovelace</hi> and Lord <hi>Wilmot,</hi> who for manifold achievements ſtiled them with the Title of Heroicke Cavaleers.</p>
+            <p>Sent in a Letter by a Scholar in the Univerſity to a brother of his in <hi>London.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Beſt.</hi> Auguſt 29. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:112864:2"/>
+            <pb facs="tcp:112864:2"/>
+            <opener>
+               <salute>Deare Brother,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am very ſorry that I o<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed the laſt weeks opportu<g ref="char:EOLhyphen"/>nity, which was by reaſon of the Carriers haſte in going, and not my negligence in writing, but I will be ſure not to be failing in this kind any more. I have received your laſt Letter, as alſo both the Letters mentioned in the ſame, and am very ſorry that you have not received my anſwers thereunto, for I ſent you anſwers to them particularly. In your laſt Letter you wiſh that your Regiment might come to <hi>Oxon</hi> to viſit our traiterous malignant ſchol<g ref="char:EOLhyphen"/>lers, which if you did, or any elſe, you would be nobly entertained; the Univerſity affects Londoners ſo much, that I done ſay, they had rather have your room than your company; but if you doe preſſe them with your com<g ref="char:EOLhyphen"/>pany you ſhall have as good entertainment as their hoſtile preparations can afford you,
+<pb facs="tcp:112864:3"/>for here is every day training of ſchollers, with other great preparations for your comming, ſo that now our ſchollers have exchanged exerciſing with their bookes in ſtudy, for the practiſe of their Armes in the field, but to ſay the plain truth, they imploy themſelves better now then before, for be<g ref="char:EOLhyphen"/>fore, their whole time was ſpent in whoo<g ref="char:EOLhyphen"/>ring, drinking, and ſwearing, (fit ſouldiers for this chuſe) but now great part of their time is ſpent in martiall exerciſes, but by no means will they wholly neglect the other. A while ſince the Univerſity hearing of ſome or the Parliament forces comming hither, in all haſt a judicious Convocation was called, Powder and ſhot in readineſſe provided, ſcouts ſent out, the bridge blockt, ſtrict watch ſet at the gates; and the City all in armes, but our couragious, valiant ſchollers moſt part fled, our great grave Doctors went as faſt as they could, ſome run afoot, ſome rid to overtake them, not to bring them back or ſtay them, but much deſired their company, moſt of them diſguiſing them<g ref="char:EOLhyphen"/>ſelves for feare of them that intended not
+<pb facs="tcp:112864:3"/>to trouble them, like the wicked in the Pſalm, fleeing when no man purſued them: by which we may take notice what a ſcare<g ref="char:EOLhyphen"/>crow a bad cauſe and a bad conſcience is, both which is apparent to all good Chriſti<g ref="char:EOLhyphen"/>ans, they fight to maintaine. We heare that the King will be here very ſhortly and ſet a ſtrong guard on the Univerſity, and ſo to take his journey to <hi>Warwicke,</hi> and here is every day 500. Horſe expected for the Lord <hi>Wilmot,</hi> who is now reſident here to guard the Univerſity, ſo that here is like to be great oppoſition, but what are all theſe being the Lord is not with them, but againſt them? for the beſt things ſaith a Heathen are over<g ref="char:EOLhyphen"/>come by the greateſt difficulties, for they are exceeding good things we expect, there<g ref="char:EOLhyphen"/>fore I cannot expect but the Lord will make us paſſe through ſome oppoſition to gaine them.</p>
+            <p>But I will acquaint you with ſome more <hi>Oxford</hi> courage, this day the Lord <hi>Lovelas</hi> and the Lord <hi>Wilmot</hi> being here, and hearing of the brave Cavaleers His Majeſty was like to have from <hi>Oxford,</hi> came to ſee them train,
+<pb facs="tcp:112864:4"/>the whole Company conſiſting of about 500, all being ſchollers, which the forena<g ref="char:EOLhyphen"/>med Lords ſeeing, and in ſo compleat armes acting their poſtures, they wonderfully ap<g ref="char:EOLhyphen"/>plauded this their deſigne, proteſting they would make heroicke Cavaleers; and the ſchollers anſwering and proteſting they would deſerve their good opinion, and that the Round-heads ſhould know, for againſt them they would ſpend every drop of blood in their veines, and they made no queſtion but one of them were able to encounter with halfe a dozen Round-heads, if they had ſome there to try their courage once, for they feared not if all the World came a<g ref="char:EOLhyphen"/>gainſt them, and many the like expreſſions; ſo that one would have thought if the great Twelfth Army were there, they would have conquered them all but in the interim while they were thus couragiouſly march<g ref="char:EOLhyphen"/>ing, every one looking like a ſon of <hi>Goliah,</hi> there came unexpected nows, that there were Troopers making towards them, but now ſee, the <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> courage of theſe before brave Cavaleers, for they hearing this news,
+<pb facs="tcp:112864:4"/>the major part was in ſuch haſte to be gone, that they never ſtaied to examine the truth, or whether they were for them or againſt them, but runne as hard as their heeles could carry them out of the field, leaving field and courage all at once; the reſt being encourag<g ref="char:EOLhyphen"/>ed by the two Lords to ſtand and ſee the e<g ref="char:EOLhyphen"/>vent, ſtaid, but with ſuch courage, that each of them were like to fall down in the places where they ſtood, which did plainly appeare by their pale faces, ſo that I am confident had the imagined Troopers come in ſight, they would have ſhewed them their backes, and made known what ſwift footmen they could (on ſuch an occaſion) be. Thus you ſee the ſtout courage of theſe our <hi>Oxford</hi> Cavaleers being thus terrified by imaginary feares; the Lord ſtrike ſuch terrour into the hearts of all that oppoſe his truth, which we have great hopes God will effect accordingly, if we con<g ref="char:EOLhyphen"/>ſider the parties on both ſides, for all men plainly ſee, that the oppoſers of the Parlia<g ref="char:EOLhyphen"/>ment are either Papiſts whoſe Religion is quite contrary to Gods Word, or Atheiſts who have no Religoin, except prophanneſſe be a Religion.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
